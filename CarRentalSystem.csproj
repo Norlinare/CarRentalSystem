@@ -14,10 +14,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\" />
-    <Folder Include="UI\" />
-    <Folder Include="Persistence\" />
-    <Folder Include="Services\" />
+    <Folder Include="Persistence\Storage\" />
+    <Folder Include="UI\Menu\" />
+    <Folder Include="UI\StandardMessages\Booking\" />
+    <Folder Include="UI\StandardMessages\Pricing\" />
+    <Folder Include="UI\StandardMessages\Payment\" />
+    <Folder Include="UI\StandardMessages\User\" />
   </ItemGroup>
 
 </Project>

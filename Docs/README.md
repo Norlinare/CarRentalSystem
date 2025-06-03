@@ -1,0 +1,1 @@
+The Docs folder contains documentation for the project, including design decisions, architecture, and other relevant information. It serves as a reference for developers and stakeholders to understand the project's structure and rationale behind design choices.

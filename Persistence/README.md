@@ -1,0 +1,1 @@
+The Persistence folder contains Repositories, which are responsible for data storage and retrieval. It includes interfaces and implementations that define how data is accessed and manipulated, ensuring a clear separation between the data layer and business logic. This modular approach allows for easier testing and maintenance of data access code, promoting a clean architecture.

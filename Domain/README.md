@@ -1,0 +1,1 @@
+The Domain folder contains domain models only, with no logic. It serves as the foundation for the application's data structures and business rules, ensuring a clear separation of concerns. This modular approach allows for easier maintenance and scalability as the project evolves.
